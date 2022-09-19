@@ -1,0 +1,111 @@
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+D:\Josue\Escritorio\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+C:\Users\Informatica\Desktop\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacmanInfinito\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+D:\Josue\Escritorio\WnetWatcher\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.GameOver.resources
+C:\Users\Informatica\Desktop\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel2.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.GameOver.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel2.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel3.resources
+D:\Josue\Documentos\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.PartidaGanada.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.GameOver.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel2.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel3.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.PartidaGanada.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.Cache
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe.config
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.exe
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.pdb
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\bin\Debug\ProyectoPacman.xml
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbprojResolveAssemblyReference.cache
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form1.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Form2.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.GameOver.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Resources.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel2.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.Nivel3.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.PartidaGanada.resources
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.GenerateResource.cache
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.vbproj.CoreCompileInputs.cache
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.exe
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.xml
+C:\Users\ELIO ISAI RAYMUNDO\Documents\Proyectos\VisualBasic\Proyectos - IN5AM\Josue Robledo - Pacman\ProyectoPacman\ProyectoPacman\obj\Debug\ProyectoPacman.pdb
